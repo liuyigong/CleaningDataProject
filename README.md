@@ -6,6 +6,16 @@ Run the run_analysis Code
 The code will generate a AveData.txt file in your working directory.
 This file will contains the average of each measurement on mean and standard deviation data by each activity and each subject.
 
+# AveData file
+The AveData.txt file contains the average of the mean and standard deviation of each measurement by all 30 experiment subjects and 6 activities.
+It was first combined from the train and test dataset to produce the full dataset.
+Only the mean and standard deviation on the measurement were extracted from the full dataset.
+The descriptive activity names were then assigned to the level values in the dataset.
+The appropriate labels were also applied to the dataset variables.
+Finally, Average of each variables were summarized by each subject and each activity.
+The averaged dataset was then saved as the AveData.txt file.
+
+
 # For detailed information of the original data, Please see: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # License:
