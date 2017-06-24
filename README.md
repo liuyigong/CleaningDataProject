@@ -1,7 +1,7 @@
 # CleaningDataProject
 Course Project for Coursera Getting and Cleaning Data
 
-Please place the Samsung Data folder: UCI HAR Dataset to the working directory
+Please place the Samsung Data folder (UCI HAR Dataset) to the working directory
 Run the run_analysis Code
 The code will generate a AveData.txt file in your working directory.
 This file will contains the average of each measurement on mean and standard deviation data by each activity and each subject.
